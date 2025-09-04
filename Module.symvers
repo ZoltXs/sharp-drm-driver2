@@ -1,0 +1,6 @@
+0x78e91708	sharp_memory_set_invert	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
+0x089128f7	sharp_memory_add_overlay	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
+0x8952956f	sharp_memory_remove_overlay	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
+0x14b1f60d	sharp_memory_show_overlay	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
+0xc1945636	sharp_memory_hide_overlay	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
+0x5051489f	sharp_memory_clear_overlays	/home/pi/sharp-drm-driver/sharp-drm	EXPORT_SYMBOL_GPL	
